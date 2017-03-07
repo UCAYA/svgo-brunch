@@ -35,5 +35,6 @@ class SVGOBrunch {
 SVGOBrunch.prototype.brunchPlugin = true;
 SVGOBrunch.prototype.staticTargetExtension = 'svg';
 SVGOBrunch.prototype.staticExtension = 'svg';
+SVGOBrunch.prototype.type = 'template';
 
 module.exports = SVGOBrunch;
